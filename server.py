@@ -1,5 +1,5 @@
 import socket
-
+LOG_FILE = "radar_data.log"
 HOST = '0.0.0.0'  # Escuta em todas as interfaces
 PORT = 1234        # Porta usada no código da XIAO
 
